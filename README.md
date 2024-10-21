@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arycdujghf
+- 👋 Hi, I’m @Ary.a
 - 👀 I’m interested in wed dev
 - 🌱 I’m currently learning front stack 
 - 💞️ I’m looking to collaborate on ..
